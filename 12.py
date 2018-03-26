@@ -6,7 +6,7 @@ from datetime import datetime
 import time,random,sys,json,codecs,threading,glob,re,os,subprocess
 
 cl = LINETCR.LINE()
-cl.login(token="EqAjkBZ9OWWLDSzIPSOe.ccys8tuFvu++SAeG8YQBdG.svBD/OZ5GQ4r1e7p3JCkpnWIQLOjIWmYvyF9huDtdz")
+cl.login(token="ErKl3gRSopno8Hym4zoe.ccys8tuFvu++SAeG8YQBdG.RXBiLbMJdQvAUiz46dSGCx/uS06DBJBgvMdeqGFE+Xo")
 cl.loginResult()
 
 ki = LINETCR.LINE()
